@@ -134,7 +134,7 @@ span.psw {
 
 <div id="id01" class="modal">
   
-  <form class="modal-content animate" action="http://shakirov.210.tilda.ws/12345/">
+  <form class="modal-content animate" action="https://azakelo.herokuapp.com/">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <img src="img_avatar2.png" alt="Avatar" class="avatar">
