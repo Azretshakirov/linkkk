@@ -7,7 +7,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 
 /* Full-width input fields */
-input[type=text], input[type=password] {aziret,2121
+input[type=text], input[type=password] {azreto,2121
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
